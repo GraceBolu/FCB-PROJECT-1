@@ -39,3 +39,9 @@ To add image, the image must be uploaded to your repository
 ![](Central, North and South (1).png)
 
 
+---
+|Name| Gender|Course|
+|----|-------|------|
+|Grace|Female|DTA|
+
+

@@ -43,5 +43,6 @@ To add image, the image must be uploaded to your repository
 |Name| Gender|Course|
 |----|-------|------|
 |Grace|Female|DTA|
+|Iyanu|Male|Mass Comm.|
 
 

@@ -15,3 +15,24 @@ Tools used
 - Power BI [Access here](https:microsoft.com)
 
 ### To bold use double asterisk **, Single asterisk, * is to Italicize
+
+**This** is an example to show that double stars are used for boldness (or highlight and ctrl+B)
+
+*To italicize*
+
+## For demacation use 3 hyphens
+
+---
+
+To input a line of code use ``` as an opening and closing statements
+
+```
+Google Query Sheet
+
+SELECT * FROM TABLE 1
+WGERE CONDITION = MET
+
+```
+
+To add image, the image must be uploaded to your repository
+
